@@ -1,0 +1,7 @@
+{
+    "editor.formatOnSave": true,
+    "[javascript, typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "prettier.configPath": "/Users/jordi/Desktop/vue-nest-pg-prisma-auth/api/.prettierrc"
+}
