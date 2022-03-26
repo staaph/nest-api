@@ -31,7 +31,7 @@ Languages and Tools used: Vue, NestJS, Prisma, Postgres & Docker
 ## Installation
 
 ```bash
-$ npm install
+npm install
 ```
 
 ## Running the app
